@@ -528,6 +528,7 @@ nederlands = [
 	"roken",
 	"rokje",
 	"roman",
+    "ronde",
 	"rugby",
 	"ruist",
 	"ruzie",
